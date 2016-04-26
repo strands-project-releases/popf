@@ -1,0 +1,13 @@
+ros-indigo-popf (0.0.1-0trusty) trusty; urgency=high
+
+  * Update package.xml
+  * tidy up
+  * Merge branch 'master' of https://github.com/LCAS/popf
+  * Initial commit
+  * popf 1 included and made work
+  * initial commit
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 25 Apr 2016 23:00:00 -0000
+
+
